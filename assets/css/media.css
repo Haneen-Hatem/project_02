@@ -1,0 +1,1237 @@
+@media (max-width: 1200px) and (min-width: 992px) {
+
+  .about-us .heading h1::after,
+  .feature .heading h1::after,
+  .work .heading h1::after,
+  .new .heading h1::after,
+  .affordable .heading h1::after,
+  .contact-us h1::after {
+    position: absolute;
+    top: 150%;
+    left: 38%;
+  }
+
+  .about-us .heading h1::before,
+  .feature .heading h1::before,
+  .work .heading h1::before,
+  .new .heading h1::before,
+  .affordable .heading h1::before,
+  .contact-us h1::before {
+    position: absolute;
+    top: 150%;
+    left: 52%;
+  }
+
+  .about-us .heading .circle {
+    position: absolute;
+    top: 40%;
+    left: 48%;
+  }
+
+  .feature .heading .circle,
+  .work .heading .circle,
+  .new .heading .circle,
+  .affordable .heading .circle,
+  .contact-us .heading .circle {
+    position: absolute;
+    top: auto;
+    left: 48%;
+  }
+
+  .navbar .brand-name img {
+    margin-inline-end: 0px;
+  }
+
+  header .contain form {
+    width: 60%;
+  }
+
+  .about-us .row,
+  .work .row,
+  .new .row{
+    width: 100%;
+  }
+
+  .feature {
+    height: 820px;
+  }
+
+  .feature .graphic img {
+    width: 900px;
+  }
+
+  .feature .graphic div img {
+    width: 100px;
+    height: 30px;
+  }
+
+  .feature .graphic .media {
+    position: absolute;
+    top: 0px;
+    left: 44%;
+  }
+
+  .feature .graphic .web {
+    position: absolute;
+    top: 10%;
+    left: 55%;
+  }
+
+  .feature .graphic .seo {
+    position: absolute;
+    top: 30%;
+    left: 70%;
+  }
+
+  .feature .graphic .logo {
+    position: absolute;
+    top: 60%;
+    left: 72%;
+  }
+
+  .feature .graphic .email {
+    position: absolute;
+    top: 12%;
+    right: 70%;
+  }
+
+  .feature .graphic .marketing {
+    position: absolute;
+    top: 55%;
+    right: 60%;
+  }
+
+  .feature .graphic p {
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    margin-bottom: 20px;
+  }
+
+  .feature .graphic .marketing p,
+  .feature .graphic .logo p {
+    margin-top: 40px;
+    margin-inline-end: 5px;
+  }
+
+  .sec1 {
+    transform: translateY(-100px);
+  }
+
+  .sec1 .user .image-user {
+    margin-inline-start: 90px;
+  }
+
+  .sec1 .data-user h3,
+  .sec1 .data-user p {
+    width: 150px;
+  }
+
+  .pic {
+    width: 95%;
+    margin: 150px auto 40px;
+  }
+
+  .pic .contain .image img {
+    width: 350px;
+    height: 350px;
+  }
+
+  .pic .column p {
+    margin-inline-start: 15px;
+  }
+
+  .pic .column .row {
+    margin-bottom: 10px;
+  }
+
+  .affordable button{
+    width: 200px !important;
+  }
+
+}
+
+@media (max-width: 991px) and (min-width: 769px) {
+  .heading h1 {
+    font-size: 25px !important;
+  }
+
+  .heading p {
+    font-size: 13px;
+    width: 95% !important;
+  }
+
+  .about-us .heading h1::after,
+  .feature .heading h1::after,
+  .work .heading h1::after,
+  .new .heading h1::after,
+  .affordable .heading h1::after,
+  .contact-us h1::after {
+    width: 70px;
+    position: absolute;
+    top: 150%;
+    left: 32%;
+  }
+
+  .about-us .heading h1::before,
+  .feature .heading h1::before,
+  .work .heading h1::before,
+  .new .heading h1::before,
+  .affordable .heading h1::before,
+  .contact-us h1::before {
+    width: 70px;
+    position: absolute;
+    top: 150%;
+    left: 53%;
+  }
+
+  .about-us .heading .circle {
+    position: absolute;
+    top: 38%;
+    left: 48%;
+  }
+
+  .feature .heading .circle,
+  .work .heading .circle,
+  .new .heading .circle,
+  .affordable .heading .circle,
+  .contact-us .heading .circle {
+    position: absolute;
+    top: auto;
+    left: 48%;
+  }
+
+  .navbar .container {
+    width: 90%;
+  }
+
+  .navbar .brand-name img {
+    width: 130px;
+    height: 60px;
+    margin-inline-end: 0pc;
+  }
+
+  .navbar .navbar-nav {
+    width: 30%;
+    position: absolute;
+    top: 60%;
+    right: 0px;
+    background-color: #ffffff9f;
+    border-radius: 3px;
+  }
+
+  .navbar .navbar-nav li,
+  .new .row .choose {
+    margin: auto;
+  }
+
+  .navbar .show {
+    visibility: hidden;
+  }
+
+  .navbar .nav-image img {
+    display: block;
+  }
+
+  header {
+    padding: 100px 0px 50px;
+  }
+
+  header .contain h1 {
+    width: 90%;
+    font-size: 35px;
+  }
+
+  header .contain p,
+  .pic .paragraph h3 {
+    font-size: 15px;
+  }
+
+  header .contain form {
+    width: 80%;
+  }
+
+  .about-us .row,
+  .work .icons .row,
+  .contact-us .form,
+  .new .row {
+    width: 100%;
+  }
+
+  .feature {
+    height: 620px;
+  }
+
+  .feature .graphic img {
+    width: 550px;
+    height: 330px;
+  }
+
+  .feature .graphic div img {
+    width: 40px;
+    height: 20px;
+  }
+
+  .feature .graphic .media {
+    position: absolute;
+    top: 0px;
+    left: 44%;
+  }
+
+  .feature .graphic .web {
+    position: absolute;
+    top: 10%;
+    left: 55%;
+  }
+
+  .feature .graphic .seo {
+    position: absolute;
+    top: 25%;
+    left: 62%;
+  }
+
+  .feature .graphic .logo {
+    position: absolute;
+    top: 48%;
+    left: 74%;
+  }
+
+  .feature .graphic .email {
+    position: absolute;
+    top: 16%;
+    right: 70%;
+  }
+
+  .feature .graphic .marketing {
+    position: absolute;
+    top: 50%;
+    right: 58%;
+  }
+
+  .feature .graphic p {
+    font-size: 10px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    margin-bottom: 18px;
+  }
+
+  .feature .graphic .marketing p,
+  .feature .graphic .logo p {
+    margin-top: 40px;
+    margin-inline-end: 5px;
+  }
+
+  .sec1 {
+    transform: translateY(-80px);
+  }
+
+  .sec1 .user .image-user {
+    margin-inline-start: 40px;
+  }
+
+  .sec1 .data-user h3,
+  .sec1 .data-user p {
+    font-size: 12px;
+    margin-inline-start: -30px;
+    width: 150px;
+  }
+
+  .sec1 .data p {
+    width: 80%;
+    font-size: 13px;
+    margin: 15px 0px 0px 10px;
+  }
+
+  .pic {
+    width: 95%;
+    margin: 150px auto 40px;
+  }
+
+  .pic .contain .image img {
+    width: 350px;
+    height: 350px;
+  }
+
+  .pic .column p {
+    margin-inline-start: 15px;
+  }
+
+  .pic .column .row {
+    margin-bottom: 10px;
+  }
+
+  .logos {
+    text-align: center;
+  }
+
+  .logos img {
+    margin-bottom: 10px;
+  }
+
+  .work .content {
+    text-align: center;
+  }
+
+  .work .content img {
+    margin-bottom: 40px;
+  }
+
+  .work .row {
+    width: 90%;
+    margin: auto;
+  }
+
+  .social .image {
+    margin-bottom: 20px;
+  }
+
+}
+
+@media (max-width: 768px) and (min-width: 577px) {
+  .heading h1 {
+    font-size: 25px !important;
+  }
+
+  .heading p {
+    font-size: 13px;
+    width: 95% !important;
+  }
+
+  .about-us .heading h1::after,
+  .feature .heading h1::after,
+  .work .heading h1::after,
+  .new .heading h1::after,
+  .affordable .heading h1::after,
+  .contact-us h1::after {
+    width: 70px;
+    position: absolute;
+    top: 150%;
+    left: 32%;
+  }
+
+  .about-us .heading h1::before,
+  .feature .heading h1::before,
+  .work .heading h1::before,
+  .new .heading h1::before,
+  .affordable .heading h1::before,
+  .contact-us h1::before {
+    width: 70px;
+    position: absolute;
+    top: 150%;
+    left: 53%;
+  }
+
+  .about-us .heading .circle {
+    position: absolute;
+    top: 38%;
+    left: 48%;
+  }
+
+  .feature .heading .circle,
+  .work .heading .circle,
+  .new .heading .circle,
+  .affordable .heading .circle,
+  .contact-us .heading .circle {
+    position: absolute;
+    top: auto;
+    left: 48%;
+  }
+
+  .navbar .container {
+    width: 90%;
+  }
+
+  .navbar .brand-name img {
+    width: 130px;
+    height: 60px;
+    margin-inline-end: 0pc;
+  }
+
+  .navbar .navbar-nav {
+    width: 30%;
+    position: absolute;
+    top: 60%;
+    right: 0px;
+    background-color: #ffffff9f;
+    border-radius: 3px;
+  }
+
+  .navbar .navbar-nav li,
+  .new .row .choose {
+    margin: auto;
+  }
+
+  .navbar .show {
+    visibility: hidden;
+  }
+
+  .navbar .nav-image img {
+    display: block;
+  }
+
+  header {
+    padding: 100px 0px 50px;
+  }
+
+  header .contain h1 {
+    width: 100%;
+    font-size: 30px;
+  }
+
+  header .contain p,
+  .pic .paragraph h3 {
+    font-size: 15px;
+  }
+
+  header .contain form .input {
+    width: 60%;
+    margin-right: 20px;
+  }
+
+  header .contain form,
+  .about-us .row,
+  .work .icons .row,
+  .contact-us .form,
+  .new .row {
+    width: 100%;
+  }
+
+  .about-us .row .choose {
+    margin: auto;
+  }
+
+  .feature {
+    height: 620px;
+  }
+
+  .feature .graphic img {
+    width: 380px;
+    height: 330px;
+  }
+
+  .feature .graphic div img {
+    width: 40px;
+    height: 20px;
+  }
+
+  .feature .graphic .media {
+    position: absolute;
+    top: 0px;
+    left: 44%;
+  }
+
+  .feature .graphic .web {
+    position: absolute;
+    top: 10%;
+    left: 55%;
+  }
+
+  .feature .graphic .seo {
+    position: absolute;
+    top: 25%;
+    left: 62%;
+  }
+
+  .feature .graphic .logo {
+    position: absolute;
+    top: 48%;
+    left: 74%;
+  }
+
+  .feature .graphic .email {
+    position: absolute;
+    top: 16%;
+    right: 70%;
+  }
+
+  .feature .graphic .marketing {
+    position: absolute;
+    top: 50%;
+    right: 58%;
+  }
+
+  .feature .graphic p {
+    font-size: 10px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    margin-bottom: 18px;
+  }
+
+  .feature .graphic .marketing p,
+  .feature .graphic .logo p {
+    margin-top: 40px;
+    margin-inline-end: 5px;
+  }
+
+  .sec1 {
+    height: 150px;
+    padding: 30px 25px;
+    transform: translateY(-80px);
+  }
+
+  .sec1 .user .image-user {
+    width: 50px;
+    height: 50px;
+    margin-inline-start: 40px;
+  }
+
+  .sec1 .user img {
+    width: 40px;
+    height: 40px;
+    margin-top: calc((100% / 2) - 20px);
+  }
+
+  .sec1 .data-user h3,
+  .sec1 .data-user p {
+    font-size: 10px;
+    margin-inline-start: -30px;
+    width: 100px;
+  }
+
+  .sec1 .data p {
+    width: 80%;
+    font-size: 13px;
+    margin: 15px 0px 0px 10px;
+  }
+
+  .pic {
+    width: 95%;
+    margin: 40px auto;
+  }
+
+  .pic .contain .image img {
+    width: 350px;
+    height: 350px;
+  }
+
+  .pic .column p {
+    margin-inline-start: 15px;
+  }
+
+  .pic .column .row {
+    margin-bottom: 10px;
+  }
+
+  .logos {
+    text-align: center;
+  }
+
+  .logos img {
+    margin-bottom: 10px;
+  }
+
+  .work .content {
+    text-align: center;
+  }
+
+  .work .content img {
+    margin-bottom: 40px;
+  }
+
+  .work .row {
+    width: 90%;
+    margin: auto;
+  }
+
+  .work .icons h5 {
+    font-size: 12px;
+  }
+
+  .social .image {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 576px) and (min-width: 355px) {
+  .heading h1 {
+    font-size: 25px !important;
+  }
+
+  .heading p {
+    font-size: 13px;
+    width: 95% !important;
+  }
+
+  .navbar .container {
+    width: 90%;
+  }
+
+  .navbar .brand-name img {
+    width: 130px;
+    height: 60px;
+    margin-inline-end: 0pc;
+  }
+
+  .navbar .navbar-nav {
+    width: 30%;
+    position: absolute;
+    top: 60%;
+    right: 0px;
+    background-color: #ffffff9f;
+    border-radius: 3px;
+  }
+
+  .navbar .navbar-nav li,
+  .new .row .choose {
+    margin: auto;
+  }
+
+  .navbar .show {
+    visibility: hidden;
+  }
+
+  .navbar .nav-image img {
+    display: block;
+  }
+
+  .about-us .heading h1::after,
+  .feature .heading h1::after,
+  .work .heading h1::after,
+  .new .heading h1::after,
+  .affordable .heading h1::after,
+  .contact-us h1::after {
+    width: 50px;
+    position: absolute;
+    top: 150%;
+    left: 30%;
+  }
+
+  .about-us .heading h1::before,
+  .feature .heading h1::before,
+  .work .heading h1::before,
+  .new .heading h1::before,
+  .affordable .heading h1::before,
+  .contact-us h1::before {
+    width: 50px;
+    position: absolute;
+    top: 150%;
+    left: 55%;
+  }
+
+  .about-us .heading .circle {
+    position: absolute;
+    top: 32%;
+    left: 48%;
+  }
+
+  .feature .heading .circle,
+  .work .heading .circle,
+  .new .heading .circle,
+  .affordable .heading .circle,
+  .contact-us .heading .circle {
+    position: absolute;
+    top: auto;
+    left: 48%;
+  }
+
+  header {
+    padding: 100px 0px 50px;
+  }
+
+  header .contain h1 {
+    width: 100%;
+    font-size: 30px;
+  }
+
+  header .contain p,
+  .pic .paragraph h3 {
+    font-size: 15px;
+  }
+
+  header .contain form .input {
+    width: 60%;
+    margin-right: 2px;
+  }
+
+  header .contain form .submit {
+    width: 35%;
+    padding: 7px 0px;
+  }
+
+  .about-us .row .choose {
+    margin: auto;
+  }
+
+  header .contain form,
+  .about-us .row,
+  .work .icons .row,
+  .contact-us .form,
+  .new .row {
+    width: 100%;
+  }
+
+  .feature {
+    height: 650px;
+  }
+
+  .feature .graphic img {
+    width: 330px;
+    height: 330px;
+  }
+
+  .feature .graphic div img {
+    width: 40px;
+    height: 20px;
+  }
+
+  .feature .graphic .media {
+    position: absolute;
+    top: 0px;
+    left: 44%;
+  }
+
+  .feature .graphic .web {
+    position: absolute;
+    top: 10%;
+    left: 55%;
+  }
+
+  .feature .graphic .seo {
+    position: absolute;
+    top: 25%;
+    left: 65%;
+  }
+
+  .feature .graphic .logo {
+    position: absolute;
+    top: 52%;
+    left: 74%;
+  }
+
+  .feature .graphic .email {
+    position: absolute;
+    top: 10%;
+    right: 70%;
+  }
+
+  .feature .graphic .marketing {
+    position: absolute;
+    top: 45%;
+    right: 58%;
+  }
+
+  .feature .graphic p {
+    font-size: 10px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    margin-bottom: 18px;
+  }
+
+  .feature .graphic .marketing p,
+  .feature .graphic .logo p {
+    margin-top: 40px;
+    margin-inline-end: 5px;
+  }
+
+  .sec1 {
+    height: 150px;
+    padding: 30px 25px;
+    transform: translateY(-80px);
+  }
+
+  .sec1 .user .image-user {
+    width: 50px;
+    height: 50px;
+    margin-inline-start: 0px;
+  }
+
+  .sec1 .user img {
+    width: 40px;
+    height: 40px;
+    margin-top: calc((100% / 2) - 20px);
+  }
+
+  .sec1 .data-user h3,
+  .sec1 .data-user p {
+    font-size: 10px;
+    margin-inline-start: -30px;
+  }
+
+  .sec1 .data p {
+    width: 100%;
+    font-size: 10px;
+    margin: 15px 0px 0px 10px;
+  }
+
+  .pic {
+    width: 95%;
+    margin: 40px auto;
+  }
+
+  .pic .contain .image img {
+    width: 280px;
+    height: 300px;
+  }
+
+  .pic .paragraph p {
+    font-size: 12px;
+  }
+
+  .pic .column .row {
+    margin-bottom: 10px;
+  }
+
+  .pic .column .row .image-contain {
+    width: 30px;
+    height: 30px;
+  }
+
+  .pic .column .row .image-contain img {
+    width: 18px;
+    height: 18px;
+  }
+
+  .pic .column p {
+    margin: 0px;
+    font-size: 10px;
+  }
+
+  .logos .images img {
+    margin-bottom: 15px;
+  }
+
+  .work .content {
+    text-align: center;
+  }
+
+  .work .content img {
+    margin-bottom: 40px;
+  }
+
+  .work .row {
+    width: 90%;
+    margin: auto;
+  }
+
+  .work .icons img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .work .icons h5 {
+    font-size: 12px;
+    transform: translate(30px, -28px);
+  }
+
+  .section .heading h1::after {
+    width: 50px;
+    position: absolute;
+    top: 29%;
+    left: 10%;
+  }
+
+  .section .heading h1::before {
+    width: 50px;
+    position: absolute;
+    top: 29%;
+    left: 77%;
+  }
+
+  .affordable .row .divide {
+    margin-bottom: 50px;
+  }
+
+  .affordable .row .divide button {
+    width: 200px;
+  }
+
+  .social .image {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 354px) {
+  .heading h1 {
+    font-size: 25px !important;
+  }
+
+  .heading p {
+    font-size: 13px;
+    width: 95% !important;
+  }
+
+  .navbar .container {
+    width: 90%;
+  }
+
+  .navbar .brand-name img {
+    width: 130px;
+    height: 60px;
+    margin-inline-end: 0pc;
+  }
+
+  .navbar .navbar-nav {
+    width: 30%;
+    position: absolute;
+    top: 60%;
+    right: 0px;
+    background-color: #ffffff9f;
+    border-radius: 3px;
+  }
+
+  .navbar .navbar-nav li,
+  .new .row .choose {
+    margin: auto;
+  }
+
+  .navbar .show {
+    visibility: hidden;
+  }
+
+  .navbar .nav-image img {
+    display: block;
+  }
+
+  .about-us .heading h1::after,
+  .feature .heading h1::after,
+  .work .heading h1::after,
+  .new .heading h1::after,
+  .affordable .heading h1::after,
+  .contact-us h1::after {
+    width: 50px;
+    position: absolute;
+    top: 150%;
+    left: 30%;
+  }
+
+  .about-us .heading h1::before,
+  .feature .heading h1::before,
+  .work .heading h1::before,
+  .new .heading h1::before,
+  .affordable .heading h1::before,
+  .contact-us h1::before {
+    width: 50px;
+    position: absolute;
+    top: 150%;
+    left: 55%;
+  }
+
+  .about-us .heading .circle {
+    position: absolute;
+    top: 32%;
+    left: 48%;
+  }
+
+  .feature .heading .circle,
+  .work .heading .circle,
+  .new .heading .circle,
+  .affordable .heading .circle,
+  .contact-us .heading .circle {
+    position: absolute;
+    top: auto;
+    left: 48%;
+  }
+
+  header {
+    padding: 100px 0px 50px;
+  }
+
+  header .contain h1 {
+    width: 100%;
+    font-size: 30px;
+  }
+
+  header .contain p,
+  .pic .paragraph h3 {
+    font-size: 15px;
+  }
+
+  header .contain form .input {
+    width: 60%;
+    margin-right: 2px;
+  }
+
+  header .contain form .submit {
+    width: 35%;
+    padding: 7px 0px;
+  }
+
+  .about-us .row .choose {
+    margin: auto;
+  }
+
+  header .contain form,
+  .about-us .row,
+  .work .icons .row,
+  .contact-us .form,
+  .new .row {
+    width: 100%;
+  }
+
+  .feature {
+    height: 650px;
+  }
+
+  .feature .graphic img {
+    width: 330px;
+    height: 330px;
+  }
+
+  .feature .graphic div img {
+    width: 40px;
+    height: 20px;
+  }
+
+  .feature .graphic .media {
+    position: absolute;
+    top: 0px;
+    left: 44%;
+  }
+
+  .feature .graphic .web {
+    position: absolute;
+    top: 10%;
+    left: 55%;
+  }
+
+  .feature .graphic .seo {
+    position: absolute;
+    top: 25%;
+    left: 65%;
+  }
+
+  .feature .graphic .logo {
+    position: absolute;
+    top: 52%;
+    left: 74%;
+  }
+
+  .feature .graphic .email {
+    position: absolute;
+    top: 10%;
+    right: 70%;
+  }
+
+  .feature .graphic .marketing {
+    position: absolute;
+    top: 45%;
+    right: 58%;
+  }
+
+  .feature .graphic p {
+    font-size: 10px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    margin-bottom: 18px;
+  }
+
+  .feature .graphic .marketing p,
+  .feature .graphic .logo p {
+    margin-top: 40px;
+    margin-inline-end: 5px;
+  }
+
+  .sec1 {
+    height: 150px;
+    padding: 30px 25px;
+    transform: translateY(-80px);
+  }
+
+  .sec1 .user .image-user {
+    width: 50px;
+    height: 50px;
+    margin-inline-start: 0px;
+  }
+
+  .sec1 .user img {
+    width: 40px;
+    height: 40px;
+    margin-top: calc((100% / 2) - 20px);
+  }
+
+  .sec1 .data-user h3,
+  .sec1 .data-user p {
+    font-size: 10px;
+    margin-inline-start: -30px;
+  }
+
+  .sec1 .data p {
+    width: 100%;
+    font-size: 10px;
+    margin: 15px 0px 0px 10px;
+  }
+
+  .pic {
+    width: 95%;
+    margin: 40px auto;
+  }
+
+  .pic .contain .image img {
+    width: 280px;
+    height: 300px;
+  }
+
+  .pic .paragraph p {
+    font-size: 12px;
+  }
+
+  .pic .column .row {
+    margin-bottom: 10px;
+  }
+
+  .pic .column .row .image-contain {
+    width: 30px;
+    height: 30px;
+  }
+
+  .pic .column .row .image-contain img {
+    width: 18px;
+    height: 18px;
+  }
+
+  .pic .column p {
+    margin: 0px;
+    font-size: 10px;
+  }
+
+  .logos .images img {
+    margin-bottom: 15px;
+  }
+
+  .work .content {
+    text-align: center;
+  }
+
+  .work .content img {
+    margin-bottom: 40px;
+  }
+
+  .work .row {
+    width: 90%;
+    margin: auto;
+  }
+
+  .work .icons img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .work .icons h5 {
+    font-size: 12px;
+  }
+
+  .section .heading h1::after {
+    width: 50px;
+    position: absolute;
+    top: 29%;
+    left: 10%;
+  }
+
+  .section .heading h1::before {
+    width: 50px;
+    position: absolute;
+    top: 29%;
+    left: 77%;
+  }
+
+  .affordable .row .divide {
+    margin-bottom: 50px;
+  }
+
+  .affordable .row .divide button {
+    width: 200px;
+  }
+
+  .social .image {
+    margin-bottom: 20px;
+  }
+}
